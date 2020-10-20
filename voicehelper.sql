@@ -89,6 +89,7 @@ CREATE TABLE `keyword` (
 LOCK TABLES `keyword` WRITE;
 /*!40000 ALTER TABLE `keyword` DISABLE KEYS */;
 INSERT INTO `keyword` VALUES (1,'카페','https://section.cafe.naver.com/');
+INSERT INTO 'keyword' VALUES (2,'뉴스','https://news.naver.com/main/home.nhn');
 /*!40000 ALTER TABLE `keyword` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
