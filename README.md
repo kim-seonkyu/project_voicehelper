@@ -7,7 +7,8 @@
   
   기존 voicehelper DB 삭제. voicehelper_command로 진행.
   
-  기존 3 테이블(keyword, keycommand, command)을 1테이블로 속성이 [id, keyword, url]인 command 테이블로 구성 변경.
+  기존 3 테이블(keyword, keycommand, command)을   
+  1테이블로 속성이 [id, keyword, url]인 command 테이블로 구성 변경.
   
   네이버 열어,열어줘,들어가,들어가줘,보여줘 5개 구성으로 추가
   
