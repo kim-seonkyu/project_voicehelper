@@ -5,7 +5,7 @@
 # DB 만들기 
   10/22 
   
-  기존 voicehelper DB 삭제.
+  기존 voicehelper DB 삭제. voicehelper_command로 진행.
   
   3 테이블을 1테이블로 속성 [id, keyword, url]인 command 테이블 구성
   
