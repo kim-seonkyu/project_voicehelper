@@ -19,6 +19,8 @@
 
 
 mydb
+
+
 package com.company;
 
 import java.sql.Connection;
