@@ -66,7 +66,7 @@ def main():
         else:
             print("DB error, not find data try speach repeat")
 
-    """
+    
         # mysql db + python
         conn = pymysql.connect(host="localhost", user="root", password="root", db="voicehelper", charset="utf8")
         try:
@@ -79,7 +79,7 @@ def main():
         finally:
             conn.close()
         # mysql select finish
-        """
+        
 
 if __name__ == '__main__':
     main()
